@@ -1,0 +1,29 @@
+p {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-style: italik; */
+    font-weight: 400;
+    color: red;
+    background: orange;
+}
+
+
+/* p {} обращение по селектору пишется через  */
+/* .text{} обращение по класу пишется через . */
+
+/* #id обращение по ШВ пишется через . */
+
+header {}
+
+.header {}
+
+
+.title {
+    color: #181A3C;
+    font-size: 36px;
+    text-align: center;
+}
+
+.li {
+    color: red;
+}

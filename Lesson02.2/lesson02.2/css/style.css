@@ -1,0 +1,17 @@
+p {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+
+}
+
+.one {
+    color: orange;
+    width: 20%;
+
+}
+
+.two {
+    color: green;
+    width: 50%;
+}

@@ -1,0 +1,14 @@
+.box {
+    width: 600px;
+    height: 300px;
+    border: 1px solid;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    left: 100px;
+    top: -3px;
+}
